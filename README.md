@@ -4,8 +4,11 @@ Dist/State/Town with Regular expression search
 steps : 
 
 git clone repo
+
 go to repo
+
 npm install
+
 npm run dev
 
 
