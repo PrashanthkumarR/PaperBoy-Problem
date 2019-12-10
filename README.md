@@ -29,6 +29,6 @@ http://localhost:3000/api/create-state
 
 For ALL GET APIs
 
-example - just passing params as == kera
+example - just passing params as == kera (kerala 0R karnataka etc ... states)
 (form back-end testing using params else we send values in query params from front-end)
   http://localhost:3000/api/state/Kera 
