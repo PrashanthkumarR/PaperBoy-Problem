@@ -13,18 +13,22 @@ POST API
 http://localhost:3000/api/create-state
   --> just hit api to create state shema
   
- GET API - for read states                                                      example - just passing params as == kera
-                                                                (back-end using params else we send values in query params)
+ GET API - for read states                                                    
  
- http://localhost:3000/api/state/:value                                    http://localhost:3000/api/state/Kera 
+ http://localhost:3000/api/state/:value                                    
  
   
-  GET API - for read cities                                                    example - just passing params as == Phule
-                                                                (back-end using params else we send values in query params)             
+  GET API - for read cities                                                                 
  
- http://localhost:3000/api/town/:value                                     http://localhost:3000/api/state/Phule
+ http://localhost:3000/api/town/:value                                   
 
 
- GET API - for read district                                           example - just passing params as == Jaip
-                                                          (back-end using params else we send values in query params)
+ GET API - for read district                                          
  http://localhost:3000/api/district/:value 
+
+
+For ALL GET APIs
+
+example - just passing params as == kera
+(form back-end testing using params else we send values in query params from front-end)
+  http://localhost:3000/api/state/Kera 
