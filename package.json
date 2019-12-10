@@ -1,0 +1,33 @@
+{
+  "name": "paperboy-problem",
+  "version": "1.0.0",
+  "description": "Dist/State/Town with Regular expression search",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon --inspect app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PrashanthkumarR/PaperBoy-Problem.git"
+  },
+  "keywords": [
+    "paper-boy"
+  ],
+  "author": "prashanth",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PrashanthkumarR/PaperBoy-Problem/issues"
+  },
+  "homepage": "https://github.com/PrashanthkumarR/PaperBoy-Problem#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "csv-parser": "^2.3.2",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "fast-csv": "^3.4.0",
+    "mongoose": "^5.8.0",
+    "path": "^0.12.7"
+  }
+}
