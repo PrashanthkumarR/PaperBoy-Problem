@@ -2,10 +2,11 @@
 Dist/State/Town with Regular expression search
 
 steps : 
-step 1 : git clone repo
-step 2 :  go to repo
-step 3 : npm install
-step 4 : npm run dev
+
+git clone repo
+go to repo
+npm install
+npm run dev
 
 
 POST API 
